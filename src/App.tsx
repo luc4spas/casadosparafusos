@@ -38,7 +38,7 @@ function App() {
             </div>
             <h1 className="text-3xl sm:text-4xl lg:text-6xl font-bold mb-6 leading-tight">
               Estratégia de Crescimento Digital:<br />
-              <span className="text-red-500">Casa dos Parafusos CF</span>
+              <span className="text-red-500">Casa dos Parafusos</span>
             </h1>
             <p className="text-lg sm:text-xl lg:text-2xl text-slate-300 mb-8 leading-relaxed">
               Transformando autoridade local em vendas recorrentes através do Digital e Tráfego Pago.
